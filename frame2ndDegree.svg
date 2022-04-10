@@ -85,8 +85,8 @@
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="58.500122"
-     inkscape:cx="448.29711"
+     inkscape:cy="172.29614"
+     inkscape:cx="315.31468"
      inkscape:zoom="0.7"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -534,5 +534,71 @@
        id="path1617"
        d="m 143.36839,162.81106 -2.69532,-3.89995"
        style="fill:none;stroke:#000000;stroke-width:0.429399px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       id="text1645"
+       y="148.56859"
+       x="45.855164"
+       style="font-size:6.85347px;line-height:1.25;font-family:sans-serif;stroke-width:0.0342675"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.0342675"
+         y="148.56859"
+         x="45.855164"
+         id="tspan1643"
+         sodipodi:role="line">EI</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.85347px;line-height:1.25;font-family:sans-serif;stroke-width:0.0342675"
+       x="69.642151"
+       y="126.91975"
+       id="text1649"><tspan
+         sodipodi:role="line"
+         id="tspan1647"
+         x="69.642151"
+         y="126.91975"
+         style="stroke-width:0.0342675">EI</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.85347px;line-height:1.25;font-family:sans-serif;stroke-width:0.0342675"
+       x="93.028236"
+       y="148.56859"
+       id="text1657"><tspan
+         sodipodi:role="line"
+         id="tspan1655"
+         x="93.028236"
+         y="148.56859"
+         style="stroke-width:0.0342675">EI</tspan></text>
+    <text
+       id="text1661"
+       y="148.56859"
+       x="148.59074"
+       style="font-size:6.85347px;line-height:1.25;font-family:sans-serif;stroke-width:0.0342675"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.0342675"
+         y="148.56859"
+         x="148.59074"
+         id="tspan1659"
+         sodipodi:role="line">EI</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.85347px;line-height:1.25;font-family:sans-serif;stroke-width:0.0342675"
+       x="193.94789"
+       y="148.56859"
+       id="text1665"><tspan
+         sodipodi:role="line"
+         id="tspan1663"
+         x="193.94789"
+         y="148.56859"
+         style="stroke-width:0.0342675">EI</tspan></text>
+    <text
+       id="text1669"
+       y="126.91975"
+       x="171.69572"
+       style="font-size:6.85347px;line-height:1.25;font-family:sans-serif;stroke-width:0.0342675"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.0342675"
+         y="126.91975"
+         x="171.69572"
+         id="tspan1667"
+         sodipodi:role="line">EI</tspan></text>
   </g>
 </svg>
