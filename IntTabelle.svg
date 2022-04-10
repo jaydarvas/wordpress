@@ -114,9 +114,9 @@
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="251.58955"
-     inkscape:cx="801.61146"
-     inkscape:zoom="0.7"
+     inkscape:cy="423.85094"
+     inkscape:cx="790.02233"
+     inkscape:zoom="0.49497475"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -1442,7 +1442,7 @@
        id="path2329" />
     <path
        id="path2331"
-       d="M 306.81186,267.90094 H 688.30513"
+       d="M 306.81186,267.90094 H 704.3413"
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        sodipodi:nodetypes="cc" />
     <g
@@ -1672,7 +1672,7 @@
     <path
        sodipodi:nodetypes="cc"
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 306.81186,296.00719 H 688.95034"
+       d="M 306.81186,296.00719 H 704.1847"
        id="path2733" />
     <path
        id="path2737"
@@ -1737,7 +1737,7 @@
          sodipodi:role="line">L</tspan></text>
     <path
        id="path2759"
-       d="M 306.81186,324.8723 H 691.08457"
+       d="M 306.81186,324.8723 H 704.58168"
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        sodipodi:nodetypes="cc" />
     <text
@@ -1791,7 +1791,7 @@
     <path
        sodipodi:nodetypes="cc"
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 306.81186,351.70861 H 691.86345"
+       d="M 306.81186,351.70861 H 704.42512"
        id="path2779" />
     <path
        sodipodi:nodetypes="cc"
@@ -3134,7 +3134,7 @@
          sodipodi:role="line">L</tspan></text>
     <path
        id="path6082"
-       d="M 306.81186,378.98084 H 692.59648"
+       d="M 306.81186,378.98084 H 704.35634"
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        sodipodi:nodetypes="cc" />
     <path
